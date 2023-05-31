@@ -1,0 +1,4 @@
+# <,  >,  == (comparing equivlancy),  != (not)
+
+
+
